@@ -1,0 +1,32 @@
+.cheveron{
+	color:#D31F43;
+	font-weight: bolder;
+	font-size:1.3em;
+	vertical-align: sub;
+
+}
+#access{
+	color:black;
+	
+}
+#code{
+	color:white;
+	background: #D31F43;
+	
+}
+#school{
+	color:grey;
+	margin-left:30px;
+	
+
+}
+#trait{
+	border-bottom: solid;
+	color:grey;	
+}
+h1{
+	padding: 0;
+	margin: 0;
+	margin-top: 0px;
+	
+}
